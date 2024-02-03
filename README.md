@@ -1,2 +1,3 @@
 # apnacollege
-this is may first repository
+this is my first repository
+Author=Achal kukade
